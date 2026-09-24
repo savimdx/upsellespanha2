@@ -118,7 +118,7 @@ export default function Offer({ onPurchase }: { onPurchase?: () => void }) {
                 {/* Main Price */}
                 <div className="flex items-center justify-center my-3 select-none overflow-visible whitespace-nowrap flex-nowrap gap-1 sm:gap-3">
                   <span className="text-[3.25rem] min-[360px]:text-[4.25rem] sm:text-[7.5rem] md:text-[9.5rem] lg:text-[11rem] font-black text-orange-600 tracking-tighter leading-none drop-shadow-sm shrink-0">
-                    7,28 €
+                    9,36 €
                   </span>
                 </div>
 
@@ -184,7 +184,7 @@ export default function Offer({ onPurchase }: { onPurchase?: () => void }) {
                   <div className="text-[10px] sm:text-xs font-extrabold text-orange-600 uppercase tracking-widest mb-1">OFERTA DE ACTUALIZACIÓN</div>
                   <div className="flex items-center justify-center gap-2 sm:gap-3">
                     <span className="text-xs sm:text-sm font-semibold text-slate-400 line-through">Antes: 15,00 €</span>
-                    <span className="text-lg sm:text-2xl font-black text-orange-600">¡Tu Precio: 7,28 €!</span>
+                    <span className="text-lg sm:text-2xl font-black text-orange-600">¡Tu Precio: 9,36 €!</span>
                   </div>
                 </div>
 
@@ -228,7 +228,7 @@ export default function Offer({ onPurchase }: { onPurchase?: () => void }) {
                     className="w-full flex items-center justify-center space-x-2 px-4 py-4 sm:py-4.5 rounded-xl bg-gradient-to-r from-orange-500 via-amber-500 to-orange-500 hover:brightness-110 active:scale-[0.98] transition-all text-white font-black text-xs sm:text-sm md:text-base tracking-wide uppercase shadow-lg cursor-pointer transform duration-150 animate-pulse"
                   >
                     <Sparkles className="h-4 w-4 sm:h-5 sm:w-5 text-white" />
-                    <span>SÍ, ¡QUIERO EL PREMIUM POR 7,28 €!</span>
+                    <span>SÍ, ¡QUIERO EL PREMIUM POR 9,36 €!</span>
                   </button>
 
                   <button

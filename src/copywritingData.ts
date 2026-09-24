@@ -168,7 +168,7 @@ export const PLANS_DATA = {
   premium: {
     id: 'premium' as const,
     name: "PLAN PREMIUM COMPLETO",
-    price: 7.28,
+    price: 9.36,
     badge: "OFERTA ESPECIAL",
     benefits: [
       "+1000 Sesiones de Entrenamiento de Fútbol Sala",
